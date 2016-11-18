@@ -10,6 +10,7 @@
       <module fileurl="file://$PROJECT_DIR$/LogisticDiscriminationAlgorithm/LogisticDiscriminationAlgorithm.iml" filepath="$PROJECT_DIR$/LogisticDiscriminationAlgorithm/LogisticDiscriminationAlgorithm.iml" />
       <module fileurl="file://$PROJECT_DIR$/MachineLearning.iml" filepath="$PROJECT_DIR$/MachineLearning.iml" />
       <module fileurl="file://$PROJECT_DIR$/NaiveBayesAlgorithm/NaiveBayesAlgorithm.iml" filepath="$PROJECT_DIR$/NaiveBayesAlgorithm/NaiveBayesAlgorithm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/NearestMeanAlgorithm/NearestMeanAlgorithm.iml" filepath="$PROJECT_DIR$/NearestMeanAlgorithm/NearestMeanAlgorithm.iml" />
     </modules>
   </component>
 </project>
