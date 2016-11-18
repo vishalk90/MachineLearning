@@ -13,3 +13,6 @@ All the algorithms and code related to machine learning.
 * More to come…
 
 ** To get the information related to each module, go to their directory and find the README file
+
+*you can download DataSets from following website for executing above algorithms,
+http://archive.ics.uci.edu/ml/datasets.html
