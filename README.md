@@ -1,7 +1,7 @@
 # MachineLearning
 All the algorithms and code related to machine learning.
 
-# Table of Content
+### Table of Content
 * Accuracy Finder
 * Balanced Error Calculator aka BER
 * Gini Index / Best Split Finder Algorithm
