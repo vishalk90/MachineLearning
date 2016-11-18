@@ -12,4 +12,4 @@ All the algorithms and code related to machine learning.
 * SVM / Hinge loss Algorithm
 * More to come…
 
-** To get the information related to each module, go to their directory and find the README.md file
+** To get the information related to each module, go to their directory and find the README file
