@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c866605d-5e1c-44c4-8119-6c8417e74621" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/KmeanAlgorithm/kmean.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/KmeanAlgorithm/kmean.py" afterPath="$PROJECT_DIR$/KmeanAlgorithm/kmean.py" />
     </list>
     <ignored path="MachineLearning.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -40,8 +39,8 @@
       <file leaf-file-name="kmean.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/KmeanAlgorithm/kmean.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="21" column="11" selection-start-line="21" selection-start-column="11" selection-end-line="21" selection-end-column="11" />
+            <state relative-caret-position="483">
+              <caret line="178" column="48" selection-start-line="178" selection-start-column="48" selection-end-line="178" selection-end-column="48" />
               <folding>
                 <element signature="e#289#299#0" expanded="true" />
               </folding>
@@ -902,7 +901,7 @@
       <workItem from="1479474040025" duration="1577000" />
       <workItem from="1479475698675" duration="1272000" />
       <workItem from="1479489175247" duration="2494000" />
-      <workItem from="1479631601448" duration="80000" />
+      <workItem from="1479631601448" duration="1071000" />
     </task>
     <task id="LOCAL-00001" summary="First commit &amp; push.&#10;All the Algorithms related to Machine Learning.">
       <created>1479428253268</created>
@@ -943,7 +942,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15858000" />
+    <option name="totallyTimeSpent" value="16849000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
@@ -1318,8 +1317,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/KmeanAlgorithm/kmean.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="21" column="11" selection-start-line="21" selection-start-column="11" selection-end-line="21" selection-end-column="11" />
+        <state relative-caret-position="483">
+          <caret line="178" column="48" selection-start-line="178" selection-start-column="48" selection-end-line="178" selection-end-column="48" />
           <folding>
             <element signature="e#289#299#0" expanded="true" />
           </folding>
