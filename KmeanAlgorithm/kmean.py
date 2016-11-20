@@ -138,7 +138,8 @@ while ((totaldist) > 0):
     for j in range(0, cols, 1):
         for i in range(0, k, 1):
             m[i][j] = m[i][j]/n[i]
-    classes = n
+
+    classes = [int(x) for x in n]
     n=[0.1]*k
     #print("m",m)
 
@@ -165,7 +166,7 @@ while ((totaldist) > 0):
         totaldist += mdist[b]
 
     print ("distance between means:",totaldist)
-print(classes)
+print("data in each cluster for k =",k,"is",classes)
 #print ("mdist = " + str(mdist))
 
 
