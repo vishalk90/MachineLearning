@@ -176,5 +176,3 @@ print("data in each cluster for k =",k,"is",classes)
 
 for i in range(0,rows, 1):
     print(trainlabels[i],i)
-
-    ############################################
