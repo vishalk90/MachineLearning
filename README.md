@@ -11,7 +11,7 @@ All the algorithms and code related to machine learning.
 * Naïve Bayes Algorithm for classification of given data
 * SVM / Hinge loss Algorithm
 * Classification using Random Hyperplanes
-* More to come…
+* More to come...
 
 ** To get the information related to each module, go to their directory and find the README file
 
