@@ -5,4 +5,4 @@
 * Able to select 14 best features from total 29623. Significantly reduced code execution time.
 * Used HingeLoss classifier for classifying the Test_Data. Able to increase the prediction accuracy from 59% to 67%.
 
-### Please check the 'SNP_FinalProject.py' script for final copy of the project.
+##### Please check the 'SNP_FinalProject.py' script for final copy of the project.
