@@ -1,4 +1,4 @@
-# Single Nucleotide Polymorphism(SNP) genotype data Prediction, Machine Learning 
+## Single Nucleotide Polymorphism(SNP) genotype data Prediction, Machine Learning 
 * Used Single Nucleotide Polymorphism (SNP) genotype, containing 29623 SNPs (total features) & 8000 individual data points as a Train_Dataset for training the Model. 
 * Wrote a Python code to classify the Test_Data of 2000 different data points.
 * Applied F-Score Algorithm for feature selection. 
