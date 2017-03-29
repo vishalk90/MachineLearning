@@ -8,7 +8,7 @@ All the algorithms and code related to machine learning.
 * K-Mean Algorithm
 * Least Square Algorithm
 * Logistic Discrimination Algorithm
-* Naïve Bayes Algorithm for classification of given data
+* Naive Bayes Algorithm for classification of given data
 * SVM / Hinge loss Algorithm
 * Classification using Random Hyperplanes
 * More to come....
